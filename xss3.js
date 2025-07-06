@@ -24,7 +24,7 @@ document.body.innerHTML = `
       </div>
       <div class="mb-2">
         <div class="font-semibold">No. Rekening Bank:</div>
-        <span class="text-green-700 font-mono text-lg">1234 5678 9000 (BCA)</span>
+        <span class="text-green-700 font-mono text-lg">1234 (BCA)</span>
       </div>
       <div class="text-xs text-gray-500 mb-4">*Transfer sesuai nominal di atas, lalu konfirmasi via WhatsApp admin jika perlu.</div>
       <div class="flex gap-4">
